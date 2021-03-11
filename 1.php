@@ -1,3 +1,3 @@
 <?php>
-  $pwd = "bjdne9sab";
+  $password = "bjdne9sab";
 <?>
